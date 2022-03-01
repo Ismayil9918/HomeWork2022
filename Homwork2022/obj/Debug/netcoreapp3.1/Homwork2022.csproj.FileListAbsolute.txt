@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\bin\Debug\netcoreapp3.1\Homwork2022.exe
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\bin\Debug\netcoreapp3.1\Homwork2022.deps.json
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\bin\Debug\netcoreapp3.1\Homwork2022.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\bin\Debug\netcoreapp3.1\Homwork2022.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\bin\Debug\netcoreapp3.1\Homwork2022.dll
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\bin\Debug\netcoreapp3.1\Homwork2022.pdb
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.dll
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.pdb
+C:\Users\HP\OneDrive\Masaüstü\Homwork2022\Homwork2022\obj\Debug\netcoreapp3.1\Homwork2022.genruntimeconfig.cache
